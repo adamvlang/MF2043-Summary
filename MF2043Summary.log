@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.16)  17 DEC 2015 23:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.16)  21 DEC 2015 17:04
 entering extended mode
 **./MF2043Summary.tex
 (MF2043Summary.tex
@@ -788,34 +788,92 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <pics/VModel.jpg, id=4, 390.86024pt x 236.082pt>
 File: pics/VModel.jpg Graphic file (type jpg)
  <use pics/VModel.jpg>
-Package pdftex.def Info: pics/VModel.jpg used on input line 34.
+Package pdftex.def Info: pics/VModel.jpg used on input line 40.
 (pdftex.def)             Requested size: 195.42964pt x 118.0407pt.
  [1
 
 {C:/Users/Lamn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./pics/VMode
-l.jpg>] [2] [3] (MF2043Summary.aux) ) 
+l.jpg>] <pics/InvOpAmp.png, id=15, 301.125pt x 175.65625pt>
+File: pics/InvOpAmp.png Graphic file (type png)
+ <use pics/InvOpAmp.png>
+Package pdftex.def Info: pics/InvOpAmp.png used on input line 95.
+(pdftex.def)             Requested size: 150.56212pt x 87.8279pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2] <pics/NonInvOpAmp.png, id=22, 220.825pt x 217.81375pt>
+File: pics/NonInvOpAmp.png Graphic file (type png)
+
+<use pics/NonInvOpAmp.png>
+Package pdftex.def Info: pics/NonInvOpAmp.png used on input line 132.
+(pdftex.def)             Requested size: 110.41222pt x 108.9066pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./pics/InvOpAmp.png>] [4 <./pics/NonInvOpAmp.png>] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 265--270
+
+ []
+
+<pics/1ordActLowPass.jpg, id=38, 291.33844pt x 171.64125pt>
+File: pics/1ordActLowPass.jpg Graphic file (type jpg)
+
+<use pics/1ordActLowPass.jpg>
+Package pdftex.def Info: pics/1ordActLowPass.jpg used on input line 284.
+(pdftex.def)             Requested size: 291.33772pt x 171.64081pt.
+ [6 <./pics/1ordActLowPass.jpg>]
+<pics/1ordNonInvActLowPass.png, id=42, 301.8778pt x 159.59625pt>
+File: pics/1ordNonInvActLowPass.png Graphic file (type png)
+
+<use pics/1ordNonInvActLowPass.png>
+Package pdftex.def Info: pics/1ordNonInvActLowPass.png used on input line 299.
+(pdftex.def)             Requested size: 301.87706pt x 159.59584pt.
+
+Overfull \hbox (8.42363pt too wide) in paragraph at lines 296--312
+ \T1/cmr/m/n/12 The non-inverting am-pli-fier have the ad-van-tage of hav-ing a
+ very high impedane
+ []
+
+<pics/sallenKey.png, id=43, 401.5pt x 200.75pt>
+File: pics/sallenKey.png Graphic file (type png)
+ <use pics/sallenKey.png>
+Package pdftex.def Info: pics/sallenKey.png used on input line 319.
+(pdftex.def)             Requested size: 200.7495pt x 100.37474pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./pics/1ordNonInvActLowPass.png>] [8 <./pics/sallenKey.png>] [9]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10] [11] [12] [13] (MF2043Summary.aux) ) 
 Here is how much of TeX's memory you used:
- 18929 strings out of 493634
- 426556 string characters out of 3141316
- 542321 words of memory out of 3000000
- 22011 multiletter control sequences out of 15000+200000
+ 19725 strings out of 493634
+ 445643 string characters out of 3141316
+ 570042 words of memory out of 3000000
+ 22802 multiletter control sequences out of 15000+200000
  16508 words of font info for 51 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 62i,9n,56p,436b,852s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Lamn\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Lamn\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Lamn\AppData\
-Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Lamn
-\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\U
-sers\Lamn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.
-pk> <C:\Users\Lamn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecrm2074.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
-pfb>
-Output written on MF2043Summary.pdf (3 pages, 137140 bytes).
+ 62i,9n,56p,436b,966s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Lamn\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Lamn\AppData\Local
+\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Lamn\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\
+Lamn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <
+C:\Users\Lamn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
+440.pk> <C:\Users\Lamn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ecrm2074.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on MF2043Summary.pdf (13 pages, 266261 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
+ 331 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
